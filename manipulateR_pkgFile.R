@@ -23,4 +23,6 @@ detach('manipulateR')
 
 ?excel_to_r
 
-#
+#install from github
+install_github('vlahm/manipulateR')
+library(manipulateR)
